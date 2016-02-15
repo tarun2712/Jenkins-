@@ -1,0 +1,6 @@
+compileJava {
+        source = 'src'
+        destinationDir= file('target/classes')
+}
+
+
